@@ -1,0 +1,10 @@
+0001;paracetamol;35
+0002;bromoprida;25
+0003;cloratadina;20
+0004;sal eno;200
+0005;corestina;500
+006;epocler;50
+007;cetriaxona;45
+008;tandrilax;20
+009;infralax;2
+010;codeina;5
